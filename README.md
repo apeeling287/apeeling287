@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm currently working on upskilling myself and becoming a better data analyst
 <!--
 **apeeling287/apeeling287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
