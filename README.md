@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi! I'm Annabel 
+
+# About me
+'''python
+annabel_peel = {
+    'name': "Annabel Peel",
+    "location": "UK",
+    "computer_languages": ["Python","SQL", "R"],
+    "human_languages": ["English", "Spanish", "Turkish"]
+    "Interests": ["Data science","coding","biology"]
+}
 
 I'm currently working on upskilling myself and becoming a better data analyst
 <!--
