@@ -1,16 +1,16 @@
 ## Hi! I'm Annabel 
 
 # About me
-'''python
-annabel_peel = {
-    'name': "Annabel Peel",
-    "location": "UK",
-    "computer_languages": ["Python","SQL", "R"],
-    "human_languages": ["English", "Spanish", "Turkish"]
-    "Interests": ["Data science","coding","biology"]
-}
+- Name: Annabel Peel
+- Location: Bristol, UK
+- Computer languages: Python, SQL, R
+- Data visualisation tools: PowerBI, Tableau
+- Human languages: English, Spanish, Turkish
+- Interests: Data analytics, data visualisation, biology
 
-I'm currently working on upskilling myself and becoming a better data analyst
+
+I have a BSc in Biomedical Science and have an active interest in analysing and visualising large datasets using data analytical tecnhiques and visualisation tools
+I'm currently working on upskilling myself with the goal of becoming a data analyst
 <!--
 **apeeling287/apeeling287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
